@@ -1,21 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌾 Uzhavan AI – Multilingual Farming Assistant
 
-# Run and deploy your AI Studio app
+An AI-powered multilingual farming assistant that helps farmers with crop disease detection, weather advisories, government schemes, agricultural alerts, and AI assistance.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/dcf2ad60-dcab-418f-bf5e-45f0afa1471a
+- 🌱 Crop Disease Detection
+- 🤖 AI Agricultural Assistant
+- 🗣️ Multilingual Support
+- 🌦️ Weather Advisories
+- 🏛️ Government Scheme Matcher
+- 🚨 Agricultural Alerts
+- 🎤 Voice Input and Speech Support
 
-## Run Locally
+## 🛠️ Technology Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Node.js
+- Gemini API
 
+## 💻 Run Locally
+
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-"# Uzhavan-AI---Multilingual-Farming-Assistant" 
+
+```bash
+npm install
