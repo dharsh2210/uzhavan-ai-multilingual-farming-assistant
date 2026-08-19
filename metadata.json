@@ -1,0 +1,6 @@
+{
+  "name": "Uzhavan AI - Multilingual Farming Assistant",
+  "description": "AI-powered decision support platform for small and marginal farmers in India with crop disease detection, weather-aware farming recommendations, government scheme benefit matcher, and Tamil/English assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
